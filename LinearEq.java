@@ -7,8 +7,8 @@ public class LinearEq
     double num2 = Double.parseDouble(args[1]);
     double num3 = Double.parseDouble(args[2]);
 	double s = ((num3 - num2)/num1);
-	System.out.println(num1 + " * X + " + num2 + " = " + num3);
-	System.out.println("X = " + s);
+	System.out.println(num1 + " * x + " + num2 + " = " + num3);
+	System.out.println("x = " + s);
 
 	}
 }
